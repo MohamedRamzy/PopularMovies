@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="sort_by_options">
+        <item>@string/sort_by_popular</item>
+        <item>@string/sort_by_rating</item>
+        <item>@string/sort_by_favourite</item>
+    </array>
+</resources>
